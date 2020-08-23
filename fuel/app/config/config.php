@@ -1,7 +1,7 @@
 <?php
 
 return array(
-	'app_name' => 'Volcano CRM',
+	'app_name' => 'KwikPay Gateway',
 	
 	'profiling' => Input::get('profile', false),
 	
